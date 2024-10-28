@@ -1,0 +1,37 @@
+- ls : list files in directory
+- pwd : print working directory
+- mkdir: make new directory
+- cd : change directory
+- cd .. : up directory (parent directory)
+- touch : create new file.
+- cat : show file content without opening.
+- mv my_directory new_location/ : to move directory.
+- ctrl D to exist sudo mode
+
+
+
+
+
+
+****************************
+	VI 101
+****************************
+- vi "fileName" : open file with text editor VI
+- esc: to enter command mode.
+- when in command mode, press : to enter new command. 
+
+Commands:
+start the command with : 
+- WQ: write and quite to save and close file. you can use only W or Q.
+- set nu:  to show line number.
+
+- to go back to InsertMode(editing), press i.
+
+
+
+git hub token
+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
+
+
+ssh paraphrase(git hub)
+hibaSabbagh
