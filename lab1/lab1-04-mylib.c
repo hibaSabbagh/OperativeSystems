@@ -7,8 +7,8 @@ void printDateToday(){
 	struct tm tm = *localtime(&t); 
 	printf( "\n%s", ctime(&t)); 	
 }
-void printHiNameAge(char age[3], char name[5]){
-	printf("Hi %s you are %s.\n", name, age);	
+void printHiNameAge(char* name, int age){
+	printf("Hi %s you are %d.\n", name, age);	
 }
 
 
