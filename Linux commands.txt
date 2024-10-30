@@ -28,10 +28,3 @@ start the command with :
 - to go back to InsertMode(editing), press i.
 
 
-
-git hub token
-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
-
-
-ssh paraphrase(git hub)
-hibaSabbagh
